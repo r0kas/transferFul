@@ -24,7 +24,7 @@
         <junit.jupiter.version>5.5.2</junit.jupiter.version>
         <junit.version>4.13.1</junit.version>
         <cucumber.version>4.7.2</cucumber.version>
-        <apache.httpClient.version>4.5.10</apache.httpClient.version>
+        <apache.httpClient.version>4.5.13</apache.httpClient.version>
     </properties>
 
     <dependencies>
